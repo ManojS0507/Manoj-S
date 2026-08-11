@@ -1,12 +1,31 @@
-# MANOJ S
+<p align="center">
+  <img src="./cover%20page.png" width="100%" />
+</p>
+
+<h1 align="center">MANOJ S</h1>
 
 **Full-Stack Developer · AI & Backend Enthusiast · Software Engineer**
 
+<p align="center">
+  <a href="https://github.com/ManojS0507">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://www.linkedin.com/in/manoj-s-369a31258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://x.com/MANOJS16124733">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white">
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <a href="mailto:manojspoojary93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
 ---
 
-I build **full-stack applications**, **backend services**, and **AI-powered systems** with a focus on scalable APIs, database-driven applications, and practical software engineering.
-
-My interests include **Java development**, **AI/ML applications**, **REST APIs**, **system design**, **database systems**, and **DevOps**. I am currently expanding my backend development skills with **ASP.NET Core, Entity Framework Core, and Web API development**.
+I build **full-stack applications**, **AI-powered systems**, and **backend services**. My interests sit somewhere between **Java**, **AI/ML**, **REST APIs**, **system design**, and **database engineering**. When I'm not writing code, I'm usually solving DSA problems, exploring new technologies, or experimenting with different ways to build better software.
 
 ---
 
@@ -24,6 +43,7 @@ My interests include **Java development**, **AI/ML applications**, **REST APIs**
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
 
 </td>
 
@@ -111,6 +131,7 @@ My interests include **Java development**, **AI/ML applications**, **REST APIs**
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Tools-6DB33F?style=flat&logo=spring&logoColor=white">
 
 </td>
 </tr>
@@ -160,6 +181,14 @@ My interests include **Java development**, **AI/ML applications**, **REST APIs**
 
 ---
 
+
+
+### 📜 Certifications
+
+- **C# for .NET Developers** — Coursera
+- **Data Mining** — NPTEL
+
+---
 
 ### 📫 Connect
 
