@@ -190,29 +190,7 @@ I build **full-stack applications**, **AI-powered systems**, and **backend servi
 
 ---
 
-### 📫 Connect
 
-<p align="left">
-
-<a href="https://github.com/ManojS0507">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://x.com/MANOJS16124733">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/manoj-s-369a31258/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:manojspoojary93@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
----
 
 <p align="center">
 
